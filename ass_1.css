@@ -1,0 +1,11 @@
+ .container{
+     align-content: flex-start;
+     background-color: #A6E2CF
+ }
+ table, th, td {
+    border: 1px solid black;
+}
+.table-responsive{
+    width: 50%;
+    height:70px;
+}
